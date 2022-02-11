@@ -1,16 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
-
+Building Portfolio with CSS and HTML.
 > Description the project.
-
+-Website for showing portfolio.
 
 ## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
+-CSS
+-HTML
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
@@ -25,11 +22,15 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+-Use Text Editor of your choice.
+-Install node JS
 ### Setup
-
+-Run npm init -y
 ### Install
-
+-npm install --save-dev hint@6.x
+-npx hint .
+-npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+-npx stylelint "**/*.{css,scss}"
 ### Usage
 
 ### Run tests
