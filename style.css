@@ -1,0 +1,109 @@
+body {
+  padding: 0;
+  margin: 0;
+  align-content: center;
+}
+
+.container {
+  display: flex;
+  border-radius: 2px;
+  flex-direction: column;
+  position: relative;
+  left: 5px;
+}
+
+.nav-header {
+  display: flex;
+  padding-top: 10px;
+  justify-content: space-between;
+}
+
+.image1 {
+  width: 25px;
+  height: 20px;
+  position: relative;
+  top: 35px;
+}
+
+.container h6 {
+  font-size: 18px;
+  position: relative;
+  color: #6070ff;
+}
+
+.image2 {
+  width: 25px;
+  height: 25px;
+}
+
+.image21 {
+  width: 25px;
+  height: 75px;
+  position: relative;
+  bottom: 38px;
+  left: 8px;
+  transform: rotate(30deg);
+}
+
+.image-container {
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  top: 95px;
+  left: 30px;
+}
+
+.image {
+  padding-left: 25px;
+}
+
+.connect p {
+  position: static;
+  font-size: 25px;
+  color: #7f8cff;
+  left: 0;
+  top: 0;
+}
+
+.images {
+  width: 25px;
+  height: 25px;
+}
+
+.bottom-image {
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  top: 65px;
+  transform: rotate(-30deg);
+}
+
+.image7 {
+  position: relative;
+  bottom: 25px;
+  left: 30px;
+}
+
+.image8 {
+  position: relative;
+  right: 10px;
+}
+
+.heading {
+  font-size: 35px;
+}
+
+.image11 {
+  width: 250px;
+}
+
+.image6 {
+  position: relative;
+  bottom: 22px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.footer-section {
+  float: left;
+}
